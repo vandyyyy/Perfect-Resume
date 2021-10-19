@@ -153,3 +153,10 @@
 		right: 10px;
 	}
 }
+body {
+  color: #545454;
+  display: flex;
+  font-family: sans-serif;
+  justify-content: center;
+  overflow: hidden;
+}
